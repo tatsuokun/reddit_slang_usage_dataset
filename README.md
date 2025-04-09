@@ -6,6 +6,7 @@ Tatsuya Aoki, Jey Han Lau, Hidetaka Kamigaito, Hiroya Takamura, Timothy Baldwin,
 "Discovering Unusual Word Usages with Masked Language Model via Pseudo-label Training."
 Journal of Natural Language Processing, Volume 32 Issue 1, 2025 (to appear).
 
+WIP: dataset distribution, please reach out to j20.at09303us@gmail.com for inquiring about the dataset.
 
 ## Overview
 
